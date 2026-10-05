@@ -14,9 +14,9 @@ A curated list of awesome projects in the Harbor ecosystem.
 ### Evaluation Benchmarks
 
 - [Terminal-Bench](https://github.com/harbor-framework/terminal-bench) - Measures frontier agent capabilities across a diverse set of challenging terminal tasks
-- [terminal-bench-2](https://github.com/laude-institute/terminal-bench-2) - Measures agent ability to complete tasks in a terminal
-- [Terminal-Bench-Science](https://github.com/harbor-framework/terminal-bench-science) - Evaluates agents on expert-curated scientific research workflows
-- [terminal-bench-pro](https://github.com/alibaba/terminal-bench-pro) - Extension of terminal-bench by Alibaba
+- [Terminal-Bench 2.1](https://github.com/harbor-framework/terminal-bench-2) - Measures agent ability to complete tasks in a terminal
+- [Terminal-Bench Science](https://github.com/harbor-framework/terminal-bench-science) - Evaluates agents on expert-curated scientific research workflows
+- [Terminal-Bench Pro](https://github.com/alibaba/terminal-bench-pro) - Extension of Terminal-Bench by Alibaba
 - [skillsbench](https://github.com/benchflow-ai/skillsbench) - Measures agent ability to use skills
 - [otel-bench](https://github.com/QuesmaOrg/otel-bench) - Measures agent ability to instrument code with OpenTelemetry across multiple languages
 - [o11y-bench](https://github.com/grafana/o11y-bench) - Evaluates agents on observability and SRE tasks using a real Grafana stack
